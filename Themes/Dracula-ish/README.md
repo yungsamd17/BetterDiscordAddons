@@ -21,7 +21,3 @@ Friends Page:
 Modal Example:
 
 ![screenshot4](https://raw.githubusercontent.com/yungsamd17/BetterDiscordAddons/main/Themes/Dracula-ish/_res/screenshot4.png)
-
-
-
-https://downgit.github.io/#/home?url=https://github.com/yungsamd17/BetterDiscordAddons/blob/main/Themes/Dracula-ish/dracula-ish.theme.css
