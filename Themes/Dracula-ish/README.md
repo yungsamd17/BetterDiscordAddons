@@ -1,6 +1,5 @@
 # Dracula-ish
-
-# [Download](https://raw.githubusercontent.com/yungsamd17/BetterDiscordAddons/main/Themes/Dracula-ish/dracula-ish.theme.css) Right click and save as dracula.theme.css
+## [Download](https://raw.githubusercontent.com/yungsamd17/BetterDiscordAddons/main/Themes/Dracula-ish/dracula-ish.theme.css) Right click and save as dracula.theme.css
 
 Dracula style color theme for BetterDiscord.
 
