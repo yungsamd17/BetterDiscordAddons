@@ -1,4 +1,6 @@
-Dracula-ish style color theme for BetterDiscord.
+# Dracula-ish
+
+Dracula style color theme for BetterDiscord.
 
 
 Main Page:
