@@ -1,0 +1,35 @@
+/**
+ * @name Dracula-ish
+ * @description Dracula style theme.
+ * @author Sam
+ * @version 1.0.3
+ * @authorId 402083911053869056
+ * @invite SfEXfwtMva
+ * @source https://github.com/yungsamd17/BetterDiscordAddons
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 88,101,242;
+  --accentcolor2: 235,69,158;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --backgroundaccent: 24,25,32;
+  --backgroundprimary: 40,42,54;
+  --backgroundsecondary: 35,36,47;
+  --backgroundsecondaryalt: 24,25,32;
+  --backgroundtertiary: 24,25,32;
+  --backgroundfloating: 24,25,32;
+  --settingsicons: 0;
+}
+
+/* Any custom CSS below here */
+
+
