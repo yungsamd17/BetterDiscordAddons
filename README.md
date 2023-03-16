@@ -5,5 +5,5 @@
 # [Plugins](https://github.com/yungsamd17/BetterDiscordAddons/tree/main/Plugins/)
 # [Themes](https://github.com/yungsamd17/BetterDiscordAddons/tree/main/Themes/)
 
-##### Plugins: 0 (yet)
+##### Plugins: 0 (for now)
 ##### Themes: 1 
