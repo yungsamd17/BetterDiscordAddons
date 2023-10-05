@@ -5,5 +5,5 @@ BetterDiscord plugin and theme addons.
 ## [Plugins](https://github.com/yungsamd17/BetterDiscordAddons/tree/main/Plugins/)
 ## [Themes](https://github.com/yungsamd17/BetterDiscordAddons/tree/main/Themes/)
 
-Plugins: 1<br>
+Plugins: 3<br>
 Themes: 1
